@@ -1,0 +1,32 @@
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<div class="row">
+  <div class="col-lg-2">
+  </div>
+  <div class="col-lg-8">
+    <h2>Employee Details</h2>
+    <table class="table table-hover" *ngIf = "Employees && Employees.length">
+      <thead>
+        <tr>
+          <th>FirstName</th>
+          <th>LastName</th>
+          <th>Email</th>
+          <th>Phone</th>
+          <th>Current Class</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let Employee of Employees" (click)="onSelected(Employee)">
+          <td>{{Employee.firstname}}</td>
+          <td>{{Employee.lastname}}</td>
+          <td>{{Employee.email}}</td>
+          <td>{{Employee.phone}}</td>
+          <td>{{Employee.current_class}}</td>
+        </tr>
+      </tbody>
+      </table>
+    </div>
+    <div class="col-lg-2">
+    </div>
+</div>

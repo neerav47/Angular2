@@ -1,0 +1,454 @@
+[
+
+	{
+
+		"firstname" : "1",
+
+		"lastname" : "Gopakumar",
+		"email" : "arun.gopan@marlabs.com",
+
+		"location" : ["Piscataway", "Newyork", "Atlanta"],
+
+		"phone" : "34324324323",
+
+		"current_class" : "10th",
+
+		"address" : {
+
+				"communication": "Marlabs, Piscataway, New Jersey",
+								"permanent" : "Trivandrum, Kerala, India"
+
+			    },
+
+		"marks" : {
+
+				"english" : "70",
+
+				"science" : "80",
+
+				"computers" : "90",
+
+				"hardware" : "80"
+
+			   }
+
+	},
+
+{
+
+		"firstname" : "2",
+
+		"lastname" : "Gopakumar",
+		"email" : "arun.gopan@marlabs.com",
+
+		"location" : ["Piscataway", "Newyork","Atlanta"],
+
+		"phone" : "34324324323",
+
+		"current_class" : "10th",
+
+		"address" : {
+
+				"communication": "Marlabs, Piscataway, New Jersey",
+								"permanent" : "Trivandrum, Kerala, India"
+
+			    },
+
+		"marks" : {
+
+				"english" : "70",
+
+				"science" : "80",
+
+				"computers" : "90",
+
+				"hardware" : "80"
+
+			   }
+
+	}
+,
+{
+
+		"firstname" : "3",
+
+		"lastname" : "Gopakumar",
+		"email" : "arun.gopan@marlabs.com",
+
+		"location" : ["Piscataway", "Newyork", "Atlanta"],
+
+		"phone" : "34324324323",
+
+		"current_class" : "10th",
+
+		"address" : {
+
+				"communication": "Marlabs, Piscataway, New Jersey",
+								"permanent" : "Trivandrum, Kerala, India"
+
+			    },
+
+		"marks" : {
+
+				"english" : "70",
+
+				"science" : "80",
+
+				"computers" : "90",
+
+				"hardware" : "80"
+
+			   }
+
+	}
+,
+{
+
+		"firstname" : "4",
+
+		"lastname" : "Gopakumar",
+		"email" : "arun.gopan@marlabs.com",
+
+		"location" : ["Piscataway", "Newyork", "Atlanta"],
+
+		"phone" : "34324324323",
+
+		"current_class" : "10th",
+
+		"address" : {
+
+				"communication": "Marlabs, Piscataway, New Jersey",
+								"permanent" : "Trivandrum, Kerala, India"
+
+			    },
+
+		"marks" : {
+
+				"english" : "70",
+
+				"science" : "80",
+
+				"computers" : "90",
+
+				"hardware" : "80"
+
+			   }
+
+	}
+,
+{
+
+		"firstname" : "5",
+
+		"lastname" : "Gopakumar",
+		"email" : "arun.gopan@marlabs.com",
+
+		"location" : ["Piscataway", "Newyork", "Atlanta"],
+
+		"phone" : "34324324323",
+
+		"current_class" : "10th",
+
+		"address" : {
+
+				"communication": "Marlabs, Piscataway, New Jersey",
+								"permanent" : "Trivandrum, Kerala, India"
+
+			    },
+
+		"marks" : {
+
+				"english" : "70",
+
+				"science" : "80",
+
+				"computers" : "90",
+
+				"hardware" : "80"
+
+			   }
+
+	}
+,
+
+{
+
+		"firstname" : "6",
+
+		"lastname" : "Gopakumar",
+		"email" : "arun.gopan@marlabs.com",
+
+		"location" : ["Piscataway", "Newyork", "Atlanta"],
+
+		"phone" : "34324324323",
+
+		"current_class" : "10th",
+
+		"address" : {
+
+				"communication": "Marlabs, Piscataway, New Jersey",
+								"permanent" : "Trivandrum, Kerala, India"
+
+			    },
+
+		"marks" : {
+
+				"english" : "70",
+
+				"science" : "80",
+
+				"computers" : "90",
+
+				"hardware" : "80"
+
+			   }
+
+	}
+,
+
+{
+
+		"firstname" : "7",
+
+		"lastname" : "Gopakumar",
+		"email" : "arun.gopan@marlabs.com",
+
+		"location" : ["Piscataway", "Newyork", "Atlanta"],
+
+		"phone" : "34324324323",
+
+		"current_class" : "10th",
+
+		"address" : {
+
+				"communication": "Marlabs, Piscataway, New Jersey",
+								"permanent" : "Trivandrum, Kerala, India"
+
+			    },
+
+		"marks" : {
+
+				"english" : "70",
+
+				"science" : "80",
+
+				"computers" : "90",
+
+				"hardware" : "80"
+
+			   }
+
+	}
+,
+
+{
+
+		"firstname" : "8",
+
+		"lastname" : "Gopakumar",
+		"email" : "arun.gopan@marlabs.com",
+
+		"location" : ["Piscataway", "Newyork", "Atlanta"],
+
+		"phone" : "34324324323",
+
+		"current_class" : "10th",
+
+		"address" : {
+
+				"communication": "Marlabs, Piscataway, New Jersey",
+								"permanent" : "Trivandrum, Kerala, India"
+
+			    },
+
+		"marks" : {
+
+				"english" : "70",
+
+				"science" : "80",
+
+				"computers" : "90",
+
+				"hardware" : "80"
+
+			   }
+
+	}
+,
+
+{
+
+		"firstname" : "9",
+
+		"lastname" : "Gopakumar",
+		"email" : "arun.gopan@marlabs.com",
+
+		"location" : ["Piscataway", "Newyork", "Atlanta"],
+
+		"phone" : "34324324323",
+
+		"current_class" : "10th",
+
+		"address" : {
+
+				"communication": "Marlabs, Piscataway, New Jersey",
+								"permanent" : "Trivandrum, Kerala, India"
+
+			    },
+
+		"marks" : {
+
+				"english" : "70",
+
+				"science" : "80",
+
+				"computers" : "90",
+
+				"hardware" : "80"
+
+			   }
+
+	}
+,
+
+{
+
+		"firstname" : "10",
+
+		"lastname" : "Gopakumar",
+		"email" : "arun.gopan@marlabs.com",
+
+		"location" : ["Piscataway", "Newyork", "Atlanta"],
+
+		"phone" : "34324324323",
+
+		"current_class" : "10th",
+
+		"address" : {
+
+				"communication": "Marlabs, Piscataway, New Jersey",
+								"permanent" : "Trivandrum, Kerala, India"
+
+			    },
+
+		"marks" : {
+
+				"english" : "70",
+
+				"science" : "80",
+
+				"computers" : "90",
+
+				"hardware" : "80"
+
+			   }
+
+	}
+,
+
+{
+
+		"firstname" : "11",
+
+		"lastname" : "Gopakumar",
+		"email" : "arun.gopan@marlabs.com",
+
+		"location" : ["Piscataway", "Newyork", "Atlanta"],
+
+		"phone" : "34324324323",
+
+		"current_class" : "10th",
+
+		"address" : {
+
+				"communication": "Marlabs, Piscataway, New Jersey",
+								"permanent" : "Trivandrum, Kerala, India"
+
+			    },
+
+		"marks" : {
+
+				"english" : "70",
+
+				"science" : "80",
+
+				"computers" : "90",
+
+				"hardware" : "80"
+
+			   }
+
+	}
+,
+
+{
+
+		"firstname" : "12",
+
+		"lastname" : "Gopakumar",
+		"email" : "arun.gopan@marlabs.com",
+
+		"location" : ["Piscataway", "Newyork", "Atlanta"],
+
+		"phone" : "34324324323",
+
+		"current_class" : "10th",
+
+		"address" : {
+
+				"communication": "Marlabs, Piscataway, New Jersey",
+								"permanent" : "Trivandrum, Kerala, India"
+
+			    },
+
+		"marks" : {
+
+				"english" : "70",
+
+				"science" : "80",
+
+				"computers" : "90",
+
+				"hardware" : "80"
+
+			   }
+
+	}
+,
+
+{
+
+		"firstname" : "13",
+
+		"lastname" : "Gopakumar",
+		"email" : "arun.gopan@marlabs.com",
+
+		"location" : ["Piscataway", "Newyork", "Atlanta"],
+
+		"phone" : "34324324323",
+
+		"current_class" : "10th",
+
+		"address" : {
+
+				"communication": "Marlabs, Piscataway, New Jersey",
+				"permanent" : "Trivandrum, Kerala, India"
+
+			    },
+
+		"marks" : {
+
+				"english" : "70",
+
+				"science" : "80",
+
+				"computers" : "90",
+
+				"hardware" : "80"
+
+			   }
+
+	}
+
+
+]
